@@ -1,5 +1,4 @@
 # Akademik-Makale-Benzerlik-Motoru
-# Akademik-Makale-Benzerlik-Motoru
 # Metin Tabanlı Veri Setleri ile Yapay Zekâ Modelleri Geliştirme
 
 ## 📌 Proje Açıklaması
